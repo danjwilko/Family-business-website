@@ -65,6 +65,7 @@
     box-shadow: 0 -2px 20px;
 }
 #navbar-list {
+    padding-right: 0.5 rem;
     height: 50px;
     display: inline;
     display: flex;
